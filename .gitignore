@@ -332,3 +332,6 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+
+!ProyectosIG_VS17_GL_FG_GLM/freeglut/lib/x86/
+!ProyectosIG_VS17_GL_FG_GLM/freeglut/lib/x64/
